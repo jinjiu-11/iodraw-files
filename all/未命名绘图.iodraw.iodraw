@@ -106,15 +106,6 @@
             <mxPoint x="272" y="-72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.001;exitY=0.628;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="stOdLJEUJix7nKXiYLeB-5" target="stOdLJEUJix7nKXiYLeB-26">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="451" as="sourcePoint" />
-            <mxPoint x="190" y="401" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-55" value="特征融合改进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="138" y="415" width="90" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-56" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="126" y="246" width="90" height="26" as="geometry" />
         </mxCell>
@@ -126,6 +117,18 @@
             <mxPoint x="309" y="172" as="sourcePoint" />
             <mxPoint x="359" y="122" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="138" y="415" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.001;exitY=0.628;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="stOdLJEUJix7nKXiYLeB-57" source="stOdLJEUJix7nKXiYLeB-5" target="stOdLJEUJix7nKXiYLeB-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2" y="36" as="sourcePoint" />
+            <mxPoint x="52" y="-14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-55" value="特征融合改进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-57">
+          <mxGeometry width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
