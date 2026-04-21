@@ -40,8 +40,8 @@
         <mxCell id="stOdLJEUJix7nKXiYLeB-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="151" y="532" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="214" y="635" width="40" height="26" as="geometry" />
+        <mxCell id="stOdLJEUJix7nKXiYLeB-16" value="DySample的上采样改进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="151" y="608" width="145" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
