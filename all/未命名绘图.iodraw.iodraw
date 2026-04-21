@@ -13,9 +13,6 @@
         <mxCell id="stOdLJEUJix7nKXiYLeB-8" value="YOLO26骨干网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="219.5" y="239" width="113" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="206" y="534" width="293" height="165.5" as="geometry" />
-        </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-24" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="396" y="286" width="120" height="60" as="geometry" />
         </mxCell>
@@ -34,24 +31,6 @@
         <mxCell id="stOdLJEUJix7nKXiYLeB-3" value="基&lt;div&gt;于&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;&lt;div&gt;驱&lt;/div&gt;&lt;div&gt;动&lt;/div&gt;&lt;div&gt;的&lt;/div&gt;&lt;div&gt;路&lt;/div&gt;&lt;div&gt;面&lt;/div&gt;&lt;div&gt;异&lt;/div&gt;&lt;div&gt;常&lt;/div&gt;&lt;div&gt;检&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-25">
           <mxGeometry x="15.140624999999998" y="40.51590106007067" width="30" height="199" as="geometry" />
         </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="373" y="626" width="123" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-21">
-          <mxGeometry x="1.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-19" value="NWD Loss损失优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-21">
-          <mxGeometry y="17" width="123" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="209" y="626" width="145" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-20">
-          <mxGeometry x="1" width="143" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-16" value="DySample的上采样改进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-20">
-          <mxGeometry y="17" width="145" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-22" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="239" y="310" width="138" height="62" as="geometry" />
         </mxCell>
@@ -61,8 +40,32 @@
         <mxCell id="stOdLJEUJix7nKXiYLeB-10" value="GhostConv轻量化卷积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-22">
           <mxGeometry y="18" width="138" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="283" y="544" width="126" height="60" as="geometry" />
+        <mxCell id="stOdLJEUJix7nKXiYLeB-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="206" y="534" width="293" height="165.5" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-27">
+          <mxGeometry width="293" height="165.5" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-21" value="" style="group" vertex="1" connectable="0" parent="stOdLJEUJix7nKXiYLeB-27">
+          <mxGeometry x="167" y="92" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-21">
+          <mxGeometry x="1.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-19" value="NWD Loss损失优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-21">
+          <mxGeometry y="17" width="123" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-20" value="" style="group" vertex="1" connectable="0" parent="stOdLJEUJix7nKXiYLeB-27">
+          <mxGeometry x="3" y="92" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-20">
+          <mxGeometry x="1" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-16" value="DySample的上采样改进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-20">
+          <mxGeometry y="17" width="145" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-23" value="" style="group" vertex="1" connectable="0" parent="stOdLJEUJix7nKXiYLeB-27">
+          <mxGeometry x="83.5" y="11" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-23">
           <mxGeometry x="3" width="120" height="60" as="geometry" />
