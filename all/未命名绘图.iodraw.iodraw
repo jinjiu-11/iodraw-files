@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="stOdLJEUJix7nKXiYLeB-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="176" y="179" width="318" height="234" as="geometry" />
+          <mxGeometry x="165" y="264" width="294" height="155" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-2" value="特征提取改进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="177" width="90" height="26" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="219.5" y="239" width="113" height="26" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-24" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="347" y="322" width="120" height="60" as="geometry" />
+          <mxGeometry x="343" y="324" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-24">
           <mxGeometry width="120" height="60" as="geometry" />
