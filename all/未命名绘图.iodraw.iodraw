@@ -146,13 +146,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-62" value="在融合网络中加入Focal Loss，提升类别不均衡的识别能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="793" y="323.5" width="116" height="111" as="geometry" />
+          <mxGeometry x="793" y="350" width="118" height="54" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-63" value="实验验证&lt;div&gt;开展模型对比实验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="933" y="349" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1.001;entryY=0.939;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="stOdLJEUJix7nKXiYLeB-62" target="stOdLJEUJix7nKXiYLeB-62">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
