@@ -127,7 +127,7 @@
             <mxPoint x="52" y="-14" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-55" value="特征融合改进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-57">
+        <mxCell id="stOdLJEUJix7nKXiYLeB-55" value="目标检测改进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-57">
           <mxGeometry width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="stOdLJEUJix7nKXiYLeB-58" target="stOdLJEUJix7nKXiYLeB-62">
