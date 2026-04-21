@@ -28,6 +28,9 @@
         <mxCell id="stOdLJEUJix7nKXiYLeB-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="446" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-12" value="EIEM边缘信息增强" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="383" y="404" width="119" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
