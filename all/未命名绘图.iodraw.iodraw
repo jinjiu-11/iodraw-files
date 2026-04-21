@@ -73,7 +73,7 @@
         <mxCell id="stOdLJEUJix7nKXiYLeB-14" value="多尺度特征融合模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-23">
           <mxGeometry y="17" width="126" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-31" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="stOdLJEUJix7nKXiYLeB-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="stOdLJEUJix7nKXiYLeB-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="604" as="sourcePoint" />
             <mxPoint x="340" y="554" as="targetPoint" />
