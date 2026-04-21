@@ -19,12 +19,6 @@
         <mxCell id="stOdLJEUJix7nKXiYLeB-8" value="YOLO26骨干网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="219.5" y="239" width="113" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="153" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-12" value="EIEM边缘信息增强" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530.5" y="170" width="119" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-20" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="139" y="542" width="145" height="60" as="geometry" />
         </mxCell>
@@ -60,6 +54,15 @@
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-14" value="多尺度特征融合模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-23">
           <mxGeometry y="17" width="126" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="396" y="286" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-24">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-12" value="EIEM边缘信息增强" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-24">
+          <mxGeometry x="0.5" y="17" width="119" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
