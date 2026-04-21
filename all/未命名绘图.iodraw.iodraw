@@ -41,7 +41,7 @@
           <mxGeometry x="140.5" y="532" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-16" value="DySample的上采样改进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="138.5" y="551" width="145" height="26" as="geometry" />
+          <mxGeometry x="139.5" y="549" width="145" height="26" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="448" width="120" height="60" as="geometry" />
