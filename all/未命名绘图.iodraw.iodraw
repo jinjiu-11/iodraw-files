@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="DgygYM_GgiCrvxftJ8Br">
-    <mxGraphModel dx="1842" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1015" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,15 +12,6 @@
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-8" value="YOLO26骨干网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="219.5" y="239" width="113" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="311" y="418" width="126" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-23">
-          <mxGeometry x="3" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-14" value="多尺度特征融合模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-23">
-          <mxGeometry y="17" width="126" height="26" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="206" y="534" width="293" height="165.5" as="geometry" />
@@ -53,7 +44,7 @@
           <mxGeometry y="17" width="123" height="26" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-28" y="566" width="145" height="60" as="geometry" />
+          <mxGeometry x="209" y="626" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-20">
           <mxGeometry x="1" width="143" height="60" as="geometry" />
@@ -69,6 +60,15 @@
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-10" value="GhostConv轻量化卷积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-22">
           <mxGeometry y="18" width="138" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="283" y="544" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-23">
+          <mxGeometry x="3" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="stOdLJEUJix7nKXiYLeB-14" value="多尺度特征融合模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-23">
+          <mxGeometry y="17" width="126" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
