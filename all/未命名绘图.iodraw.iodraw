@@ -73,13 +73,13 @@
         <mxCell id="stOdLJEUJix7nKXiYLeB-14" value="多尺度特征融合模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-23">
           <mxGeometry y="17" width="126" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="stOdLJEUJix7nKXiYLeB-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="stOdLJEUJix7nKXiYLeB-11">
+        <mxCell id="stOdLJEUJix7nKXiYLeB-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="stOdLJEUJix7nKXiYLeB-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="604" as="sourcePoint" />
-            <mxPoint x="340" y="554" as="targetPoint" />
+            <mxPoint x="119" y="70.99999999999989" as="sourcePoint" />
+            <mxPoint x="48" y="92" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="604" />
-              <mxPoint x="290" y="554" />
+              <mxPoint x="106.5" y="70" />
+              <mxPoint x="56.5" y="20" />
             </Array>
           </mxGeometry>
         </mxCell>
