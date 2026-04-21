@@ -23,7 +23,7 @@
           <mxGeometry x="180" y="318" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-10" value="GhostConv" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="327" y="344" width="78" height="26" as="geometry" />
+          <mxGeometry x="201" y="335" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="162" width="120" height="60" as="geometry" />
