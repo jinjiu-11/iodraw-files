@@ -41,10 +41,10 @@
           <mxGeometry x="460" y="448" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-19" value="NWD Loss损失优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="381" y="621" width="123" height="26" as="geometry" />
+          <mxGeometry x="458.5" y="465" width="123" height="26" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="139.5" y="532" width="145" height="60" as="geometry" />
+          <mxGeometry x="139" y="542" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="stOdLJEUJix7nKXiYLeB-20">
           <mxGeometry x="1" width="143" height="60" as="geometry" />
