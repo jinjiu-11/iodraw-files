@@ -17,7 +17,7 @@
           <mxGeometry x="15.140624999999998" y="40.51590106007067" width="30" height="199" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-52" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="244" y="222" width="294" height="359.5" as="geometry" />
+          <mxGeometry x="244" y="206" width="294" height="359.5" as="geometry" />
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-27" value="" style="group" vertex="1" connectable="0" parent="stOdLJEUJix7nKXiYLeB-52">
           <mxGeometry x="1" y="194" width="293" height="165.5" as="geometry" />
@@ -122,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="stOdLJEUJix7nKXiYLeB-55" value="特征融合改进" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="403" width="90" height="26" as="geometry" />
+          <mxGeometry x="138" y="415" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
